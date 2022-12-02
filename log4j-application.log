@@ -1,0 +1,6 @@
+2020-02-18 08:08:41 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:8086: Software caused connection abort: socket write error
+2020-02-18 08:08:41 INFO  RetryExec:113 - Retrying request to {}->http://localhost:8086
+2021-05-25 09:58:01 INFO  RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://localhost:80: The target server failed to respond
+2021-05-25 09:58:01 INFO  RetryExec:113 - Retrying request to {}->http://localhost:80
+2021-05-25 09:58:01 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:80: Connection reset
+2021-05-25 09:58:01 INFO  RetryExec:113 - Retrying request to {}->http://localhost:80

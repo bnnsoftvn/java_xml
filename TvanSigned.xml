@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TBaoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TBaoThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <TBaoThue id="_NODE_TO_SIGN">
+      <TTinChung>
+         <CQT>
+            <maCQT>00000</maCQT>
+            <tenCQT>Tổng Cục Thuế</tenCQT>
+            <DVu>
+               <maDVu>IHTKK</maDVu>
+               <tenDVu>IHTKK</tenDVu>
+               <pbanDVu>3.1.0</pbanDVu>
+            </DVu>
+         </CQT>
+         <NNhanTBaoThue>
+            <maNNhan>0312066888</maNNhan>
+            <tenNNhan>Công Ty TNHH Xuất Nhập Khẩu Sản Xuất Thương Mại Văn Phòng Phẩm Nguyễn Lê</tenNNhan>
+            <diaChiNNhan>B14/18 Tổ 25, ấp 2</diaChiNNhan>
+         </NNhanTBaoThue>
+         <TTinTBaoThue>
+            <maTBao>450</maTBao>
+            <tenTBao>Tiếp nhận hồ sơ khai thuế điện tử</tenTBao>
+            <pbanTBao>2.3.0</pbanTBao>
+            <soTBao>10120180093469369</soTBao>
+            <ngayTBao>2018-04-28</ngayTBao>
+         </TTinTBaoThue>
+      </TTinChung>
+      <NDungTBao>
+         <trangThai>Y</trangThai>
+         <ngayHoSo>2018-04-28T16:39:38.800+07:00</ngayHoSo>
+         <HoSoThue>
+            <CTietHoSoThue id="ID_1">
+               <tokhai-phuluc>BC26/AC - Báo cáo tình hình sử dụng hóa đơn</tokhai-phuluc>
+               <loaiToKhai>Chính thức</loaiToKhai>
+               <kyTinhThue>Q1/2018</kyTinhThue>
+               <lanNop>1</lanNop>
+               <maNoiNop>70139</maNoiNop>
+               <tenNoiNop>Chi cục Thuế Huyện Bình Chánh</tenNoiNop>
+               <lyDo/>
+            </CTietHoSoThue>
+         </HoSoThue>
+         <maGiaoDichDTu>10620180235660965</maGiaoDichDTu>
+         <duongDan>http://kekhaithue.gdt.gov.vn</duongDan>
+         <hotline xsi:nil="true"/>
+      </NDungTBao>
+   </TBaoThue>
+	<CKyDTu>
+	</CKyDTu>
+<CKyDT><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>B+WQDoMe5y261XoA1YQ0zmshFT4=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>hLcGONNZVCd3F2OgWX8VFPwhUXcdDSZngmhVVGGp9tP9XrJISHIb61Z/ntg+t2DE7Rz/JBunDDnI
+OtBigDT1SCr+G5ETvbuyDK760PLBo5gym6Tcmkj4LoFOpPdGmhkK4qebuSDFf5SYTAC+TNeMwS82
+Wiak7tR9q7xpS+NxTivw/k0D1Mm7AG07phxJ23MOdJzEL8oEBh5qds6ARo4WiKvk8cRf12mY4dod
+XanJZJnuwsIDNGoZW/p+0TuxK/ffhHLmhbidPTTCXw+F5v02J0+uCl/1j7gWTQq7xuX3wiKSHRtN
+pSVtq+xx2xj+GTjOToSvQ8DS7H/NLlTbdlaJoQ==</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>t1wKt6aeGIVYnc7/hunD0SKmFVz5hh3G8+cPRkBn8F52x9XoDroiIxz1Q5kFeCRs82JpQPHZq2W6
+0hDKFlIeO6sXr1LnvHwm3XdtWm7iR48iFYz7LgbmKvlKiApe/2QoL+zlLx37uUafPHV1D7xP/brx
+dY4t+Z86JqCehSHW0Aj7cQr1ASBcvEjBUU7Y6u4wsbNoMN0PG58/89wW6KYmbaHPr3VJ/Nwx9lbX
+tmmfgamGwpQIxXl2wIPIyfHHIRHKmuDJJiHrK/RmuZQSUScV89byxGMmy72pvHvuHaQ9Eym7LUNc
+gVSjLV9x9CTTpSxcPoXlVuXfHV5uDjPZ0dcBIw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509Certificate>MIIEnjCCA4agAwIBAgIQVAEBCXWwzhizl/J13WHbWjANBgkqhkiG9w0BAQUFADBgMQswCQYDVQQG
+EwJWTjE6MDgGA1UECgwxQ8OUTkcgVFkgQ+G7lCBQSOG6pk4gVknhu4ROIFRIw5RORyBORVdURUwt
+VEVMRUNPTTEVMBMGA1UEAxMMTkVXVEVMLUNBIHYyMB4XDTE5MDUyMTA3MzA0M1oXDTIyMDUwNTA3
+MzA0M1owGTEXMBUGA1UEAwwOVEVTVCBIU00gQ1lCRVIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC3XAq3pp4YhVidzv+G6cPRIqYVXPmGHcbz5w9GQGfwXnbH1egOuiIjHPVDmQV4JGzz
+YmlA8dmrZbrSEMoWUh47qxevUue8fCbdd21abuJHjyIVjPsuBuYq+UqICl7/ZCgv7OUvHfu5Rp88
+dXUPvE/9uvF1ji35nzomoJ6FIdbQCPtxCvUBIFy8SMFRTtjq7jCxs2gw3Q8bnz/z3BbopiZtoc+v
+dUn83DH2Vte2aZ+BqYbClAjFeXbAg8jJ8cchEcqa4MkmIesr9Ga5lBJRJxXz1vLEYybLvam8e+4d
+pD0TKbstQ1yBVKMtX3H0JNOlLFw+heVW5d8dXm4OM9nR1wEjAgMBAAGjggGZMIIBlTAMBgNVHRMB
+Af8EAjAAMB8GA1UdIwQYMBaAFILw8SHv/k5YNHFv+YxCDz8h3VWbMGoGCCsGAQUFBwEBBF4wXDAt
+BggrBgEFBQcwAoYhaHR0cDovL3B1Yi5uZXdjYS52bi9uZXd0ZWwtY2EuY3J0MCsGCCsGAQUFBzAB
+hh9odHRwOi8vb2NzcDIubmV3Y2Eudm4vcmVzcG9uZGVyMF4GA1UdIARXMFUwUwYMKwYBBAGB7QMB
+CQMBMEMwIwYIKwYBBQUHAgEWF2h0dHA6Ly9wdWIubmV3Y2Eudm4vcnBhMBwGCCsGAQUFBwICMBAM
+Dk9TX05ld18zTV9UZXN0MDQGA1UdJQQtMCsGCCsGAQUFBwMCBggrBgEFBQcDBAYKKwYBBAGCNwoD
+DAYJKoZIhvcvAQEFMDMGA1UdHwQsMCowKKAmoCSGImh0dHA6Ly9jcmwyLm5ld2NhLnZuL25ld3Rl
+bC1jYS5jcmwwHQYDVR0OBBYEFKnQXQJxxxmXGb1YnYUB7UjSTWArMA4GA1UdDwEB/wQEAwIE8DAN
+BgkqhkiG9w0BAQUFAAOCAQEATqAmJRtaZcZLzUJG4yK0/H0Dv+rlqGiMKr+2pxfVBfxhXk9jwYa2
+e05A09r2/qEV73JG+hIrlyShme52mkoVZidUgnEUL07qFhC7XDdfmn+xFPy/yP9x/RrV/Bfrp3i4
+HCT+Z4TFnS6FHd/fkCk9S63WfPnBw+pSM3Qy+kcHpjnaCeeH1/XAGDuvfIE8ShpS6ifPSmaBPHTJ
+AVVC2tMvmj6xWm86D+RpQSsCsFoNh4kOkVWplT8msk7USpBkjaUyMB0u+6PXPpc181tIavoyxO2x
+sDbqHkIYfhn2TIsD43nrViVvitj3dMVwM2m0sArJ9pvBrTSwqZRT1H+p+ngu+A==</ds:X509Certificate><ds:X509Certificate>MIIEaTCCA1GgAwIBAgIKKQksKAAAAAAAFjANBgkqhkiG9w0BAQUFADB+MQswCQYDVQQGEwJWTjEz
+MDEGA1UEChMqTWluaXN0cnkgb2YgSW5mb3JtYXRpb24gYW5kIENvbW11bmljYXRpb25zMRswGQYD
+VQQLExJOYXRpb25hbCBDQSBDZW50ZXIxHTAbBgNVBAMTFE1JQyBOYXRpb25hbCBSb290IENBMB4X
+DTE3MTAyNTAxMDgyN1oXDTIyMTAyNTAxMTgyN1owYDELMAkGA1UEBhMCVk4xOjA4BgNVBAoMMUPD
+lE5HIFRZIEPhu5QgUEjhuqZOIFZJ4buETiBUSMOUTkcgTkVXVEVMLVRFTEVDT00xFTATBgNVBAMT
+DE5FV1RFTC1DQSB2MjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIb79+0ctkcClfHA
+ccJiJF4npBSLNGAOIpTh+/uLP2BgVhQuteDC73NIY41SCE5hTymrT7j/j+rpvBaxWux42PC8aan0
+yEMmwwjYvUt+B8gQzvWRI8FcpxYbA5pmRjbodD+gUjPGnNsjYkFYuvL3JjKWzPaq+CWAFFklYbam
+mPcwKQcFrKuHilElp6kAlNw2gNqLrCfGK98rCIbizSVllfJ4nFYRcSIoaI118CD0mzrJEcBtZ8ev
+zN/Btj/oNbQOxKMVETqFo8bN22pv6/nk934yzqn/GeWp5+105DLu5Qv5Iv1Hl0DN+ztGiOBaMb73
+d05GorPRK3CSkdp78nh5320CAwEAAaOCAQUwggEBMBIGA1UdEwEB/wQIMAYBAf8CAQAwCwYDVR0P
+BAQDAgGGMB0GA1UdDgQWBBSC8PEh7/5OWDRxb/mMQg8/Id1VmzAXBgNVHSAEEDAOMAwGCisGAQQB
+ge0DAQkwHwYDVR0jBBgwFoAUzWJx5GG9/j3sskBg04F13Tqsa8YwPAYDVR0fBDUwMzAxoC+gLYYr
+aHR0cDovL3B1YmxpYy5yb290Y2EuZ292LnZuL2NybC9taWNucmNhLmNybDBHBggrBgEFBQcBAQQ7
+MDkwNwYIKwYBBQUHMAKGK2h0dHA6Ly9wdWJsaWMucm9vdGNhLmdvdi52bi9jcnQvbWljbnJjYS5j
+cnQwDQYJKoZIhvcNAQEFBQADggEBAE5jQ2+3/ZEXSINb4xEi1g2O8GBOjZlUeUvgKROffa3cX7/5
+ZScPn+TZ4jpVy4UQRUj02IVFvNOviKFDPzb4vJI1e3JfDnyevzoIO8K+gd0UPmrg26Xmo75dlD3w
+eMI6NmbypInpiOcvvxkJL1iIcn1itRpHMuOv25iD22XRyGepM6AR/6D/NuMYVfnf/0g9Zb8ls6hI
+csP64gSyOnqF5bQ1qAoifTGpTRCqsievkHmLBYLqj9LrnJLJbbkDVYED5q5JhxPGZDboNtixnsRp
+HkPs49GsJMsL8TaLvvuF8jEPH/c/sG12QIRiLF5/3Ijs2qjJYhZIwj55ca7dY+g8fq8=</ds:X509Certificate><ds:X509Certificate>MIID1zCCAr+gAwIBAgIQG+Rzih8+wI9Hn6bPNcWYIjANBgkqhkiG9w0BAQUFADB+MQswCQYDVQQG
+EwJWTjEzMDEGA1UEChMqTWluaXN0cnkgb2YgSW5mb3JtYXRpb24gYW5kIENvbW11bmljYXRpb25z
+MRswGQYDVQQLExJOYXRpb25hbCBDQSBDZW50ZXIxHTAbBgNVBAMTFE1JQyBOYXRpb25hbCBSb290
+IENBMB4XDTA4MDUxNjAxMTI0OVoXDTQwMDUxNjAxMjAzMlowfjELMAkGA1UEBhMCVk4xMzAxBgNV
+BAoTKk1pbmlzdHJ5IG9mIEluZm9ybWF0aW9uIGFuZCBDb21tdW5pY2F0aW9uczEbMBkGA1UECxMS
+TmF0aW9uYWwgQ0EgQ2VudGVyMR0wGwYDVQQDExRNSUMgTmF0aW9uYWwgUm9vdCBDQTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKE/WVEO/jD/YduWeBSL20M8Nr5hr9y1P2Ae0w0BQa34
+yYpCjsjtMoZHxf619+rWRDcQEsNICFFQuuVX6c41yY4ccwmFM0zhuzisjq23EwQuZoFXLcz7Gv0u
+nIv9CUDwYBebcUVtfePbKtK7mt3rzF7kAN/VbDCFm71Xfy3UJNOA++AoUb6w1mEHzOWgR+eRbS+H
+WOi0rcGxRrPcWh04Cdn7tSeYnl788fRI/+ihO/9QM9kmq7KZYp3Me8hSTZ5cQotvdH78lBPeCtLw
+tWr4lkxQnOYhjsHllwFOzZ+wQBl8G1lvXDgZmjfa0YE5FjLvga2wIWsRl8LBCL1vI1wED9MCAwEA
+AaNRME8wCwYDVR0PBAQDAgGGMA8GA1UdEwEB/wQFMAMBAf8wHQYDVR0OBBYEFM1iceRhvf497LJA
+YNOBdd06rGvGMBAGCSsGAQQBgjcVAQQDAgEAMA0GCSqGSIb3DQEBBQUAA4IBAQBMnc1+IyCAHCjP
+8PHJ3xHKsmlTo/JfDLNlnC9U4RxQKuBVF8QXvqiTUUaqhu0kZC9PE46wtBScfEO+LU5jUmzb1nAX
+WUdbolqzx5Z6tg31LQ3ZZDqv0FQ60RNotvo4DgXr4Pww90ybX+LuZ3v4Yup0r3JUTNT6Xovs67gn
+gSyYjvfKoFGWc8YXifn0U5c/V8PbVShJc09KNypnhMUTvsbJ7glHYr+osup85V8k2zu4dDWw4YWP
+ipdIjud4Z4nL5aQC7FtXobnHlrfB6eVdjpmmpyWaHbDO1jtrM/K+SeEt1oeBuXaup/zNs8Z2Mq9N
+UFJsLQ2yvddQ5dN1Y59dzQqZ</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDT></TBaoThueDTu>

@@ -1,0 +1,113 @@
+<LenhVanChuyen>
+   <DuLieu>
+      <ThongTinChung ID="ThongTinChung">
+         <PhienBan>1.0.0</PhienBan>
+         <MaSoThueDonViTruyenNhan>0107003437</MaSoThueDonViTruyenNhan>
+         <TenDonViTruyenNhan>CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ AN VUI</TenDonViTruyenNhan>
+         <MaLenhVanChuyen>LVC-PLT0QS1xMCY8gqb0z20221123</MaLenhVanChuyen>
+         <KyHieuMauSoLenh>LVC-PLT0QS1xMCY8gqb0z20221123</KyHieuMauSoLenh>
+         <TenTaiLieu>Lệnh vận chuyển</TenTaiLieu>
+         <MaLoaiLenh>1</MaLoaiLenh>
+         <KyHieuLenh>LVC-PLT0QS1xMCY8gqb0z20221123</KyHieuLenh>
+         <SoLenh>LVC-PLT0QS1xMCY8gqb0z20221123</SoLenh>
+         <NgayKhoiTao>2022-11-30T16:06:44</NgayKhoiTao>
+         <ThongTinKhac />
+      </ThongTinChung>
+      <NoiDungLenhVanChuyen ID="NoiDungLenhVanChuyen">
+         <ThongTinDoanhNghiep>
+            <TenDonViVanTai>CÔNG TY CỔ PHẦN DỊCH VỤ VẬN TẢI ÔTÔ SỐ 10</TenDonViVanTai>
+            <MaSoThueDonViVanTai>4600358517</MaSoThueDonViVanTai>
+            <MaSoGTVT>20</MaSoGTVT>
+            <DiaChi>Số 3/1, đường Bắc Kạn, tổ 02, Phường Hoàng Văn Thụ, Thành phố Thái Nguyên, Thái Nguyên</DiaChi>
+         </ThongTinDoanhNghiep>
+         <ThongTinChuyenXe>
+            <GioXuatBenKeHoach>2022-11-23T05:00:00</GioXuatBenKeHoach>
+            <GioXuatBenThucTe>2022-11-23T05:00:00</GioXuatBenThucTe>
+         </ThongTinChuyenXe>
+         <TuyenVanChuyen>
+            <MaSoTuyen>2098.1113.A</MaSoTuyen>
+            <TenTuyen>TT TP. Thái Nguyên - Sơn Động</TenTuyen>
+            <CuLyVanChuyen>0.0</CuLyVanChuyen>
+            <HanhTrinhTuyen>TT TP. Thái Nguyên - Sơn Động</HanhTrinhTuyen>
+            <BenDi>
+               <MaSoGTVT>20</MaSoGTVT>
+               <TenSoGTVT>Thái Nguyên</TenSoGTVT>
+               <MaBenXeNoiDi>11</MaBenXeNoiDi>
+               <TenBenNoiDi>TT TP. Thái Nguyên</TenBenNoiDi>
+            </BenDi>
+            <BenDen>
+               <MaSoGTVT>98</MaSoGTVT>
+               <TenSoGTVT>Bắc Giang</TenSoGTVT>
+               <MaBenXeNoiDen>13</MaBenXeNoiDen>
+               <TenBenNoiDen>Sơn Động</TenBenNoiDen>
+            </BenDen>
+         </TuyenVanChuyen>
+         <ThongTinPhuongTien>
+            <PhuongTienTheoKeHoach>
+               <BienKiemSoat>17Bav - 114.68</BienKiemSoat>
+               <SoCho>22</SoCho>
+               <NhanHieu>XE</NhanHieu>
+            </PhuongTienTheoKeHoach>
+            <PhuongTienThucHien>
+               <BienKiemSoat>17Bav - 114.68</BienKiemSoat>
+               <SoCho>22</SoCho>
+               <NhanHieu>XE</NhanHieu>
+            </PhuongTienThucHien>
+         </ThongTinPhuongTien>
+         <DanhSachLaiXe>
+            <LaiXe>
+               <STT>1</STT>
+               <HoTen>chờ xếp</HoTen>
+               <SoGiayPhepLaiXe>190116190833</SoGiayPhepLaiXe>
+               <HangGiayPhepLaiXe>E</HangGiayPhepLaiXe>
+            </LaiXe>
+         </DanhSachLaiXe>
+         <DanhSachNhanVienPhucVu>
+            <NhanVienPhucVu>
+               <STT>1</STT>
+               <HoTen>không có</HoTen>
+            </NhanVienPhucVu>
+         </DanhSachNhanVienPhucVu>
+         <ThongTinKhac />
+      </NoiDungLenhVanChuyen>
+      <NoiDungBenDiXacNhan ID="NoiDungBenDiXacNhan">
+         <ThoiGianVaoBen>2022-11-23T05:00:00</ThoiGianVaoBen>
+         <GioXuatBenThucTe>2022-11-23T05:00:00</GioXuatBenThucTe>
+         <SoKhachKhiKyLenh>3</SoKhachKhiKyLenh>
+         <LenhDuDieuKien>false</LenhDuDieuKien>
+         <LyDoKhongDuDieuKienXuatBen>
+            <LyDo>
+               <STT>1</STT>
+               <Ma>1</Ma>
+               <NoiDung>Chấp nhận</NoiDung>
+            </LyDo>
+         </LyDoKhongDuDieuKienXuatBen>
+         <LaiXeXacNhanLenh>
+            <STT>1</STT>
+            <ThoiGianXacNhan>2022-11-23T05:00:00</ThoiGianXacNhan>
+            <SoGiayPhepLaiXe>chờ xếp</SoGiayPhepLaiXe>
+            <HoTen>chờ xếp</HoTen>
+         </LaiXeXacNhanLenh>
+      </NoiDungBenDiXacNhan>
+      <NoiDungBenDenXacNhan>
+         <ThoiGianVaoBen>2022-11-23T05:00:00</ThoiGianVaoBen>
+         <ThoiGianXacNhanTraKhach>2022-11-23T05:00:00</ThoiGianXacNhanTraKhach>
+         <SoKhachKhiKyLenh>3</SoKhachKhiKyLenh>
+         <NhanVienKyLenh>
+            <STT>1</STT>
+            <HoTen>không có</HoTen>
+         </NhanVienKyLenh>
+      </NoiDungBenDenXacNhan>
+   </DuLieu>
+   <DanhSachChuKySo>
+      <DoanhNghiep />
+      <LaiXe>
+         <STT>1</STT>
+      </LaiXe>
+      <NhanVienPhucVu>
+         <STT>1</STT>
+      </NhanVienPhucVu>
+      <BenDi><Signature Id="LVCDT1" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ThongTinChung"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Lb8tlUhtjKYK6WhRqJJPncChxMg=</DigestValue></Reference><Reference URI="#NoiDungLenhVanChuyen"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>EX6Qkn56dRbPmnf4DYxKg+c+trQ=</DigestValue></Reference><Reference URI="#NoiDungBenDiXacNhan"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>QTL4kJGFmFNaQ2VvyB46Bc9tB28=</DigestValue></Reference><Reference URI="#LVCDT1SigningTime"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>gTLzIJyCVpr6HK0wZBlLjJL2sCw=</DigestValue></Reference></SignedInfo><SignatureValue>h6oafJ4XTxwwhjdMY0yfGMnhs40kJ/NdQuVQzdZrAtu8MSgqq/WZmoBopHD8UrUAI1edhorlL7ptVTem/2WtNSPOKPv1A1TzSbG4K6TtLDnF2gOokrJUg97sM8M5iJ/GXFKH5ybnmV9xwb8tDSbPxTCO7sY7ilwFRx3sy/ZU5i8GtUNoKC64E3eEfbffYeit8G157M0+a+IPXf86nOrHdR6JsIQS6dHftke1r7Vp0m1Blwb3hDAQ5YAWpCPw5ebLSVeLMqpfFP/2QF0HbjjF9xiTEufbr/xacyEySV8Wr7xwAXHjyni5dq4Bjx/nx5YcTGnO6OSa5gL0QoN2StxkHQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>jl1T8rqrof/no/xs9mqFr9aB+kykzcwDLKpDSak9fVGs22LkLo33r2fMzwDtML3CQYri2s5sKXQ1BMRzAKX8H5PW0JkrClMpdpJhkD6U8B8WSETJ6B5n7Nj8M/KWPAbn6PfBHB/eEOrD0nf8EsdWfnXt03sOWL4dkI1tr6eFJI6pKdyM99tGwSlk4fnc42VQfwD5F+Qd7H/aIvDqqNbJ54Oh4DdrfXU12iWsc1b5RzVEEE6mH8mXeYeKViFVij5qMu5gL4flLsatWAZfszcNi1d6MFtJxOPjATbYx2M7SmFiSy002fGXRkVpP+4mzge9b6GU0j1mOGXEnmKAyONyFQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509SubjectName>C=VN, S=ha noi, CN=cty  991, userId=MST:1258987991, E=ad@gmail.com</X509SubjectName><X509Certificate>MIIEHjCCAwagAwIBAgIUScSirX4kbugOZ8b9xN1HSYeWPYQwDQYJKoZIhvcNAQELBQAwNDEUMBIGA1UEAwwLT05FLUNBIERFTU8xDzANBgNVBAoMBk9ORS1DQTELMAkGA1UEBhMCVk4wHhcNMjExMjA2MTIyOTIzWhcNMjYxMjA1MTIyOTIyWjBuMRswGQYJKoZIhvcNAQkBFgxhZEBnbWFpbC5jb20xHjAcBgoJkiaJk/IsZAEBDA5NU1Q6MTI1ODk4Nzk5MTERMA8GA1UEAwwIY3R5ICA5OTExDzANBgNVBAgMBmhhIG5vaTELMAkGA1UEBhMCVk4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCOXVPyuquh/+ej/Gz2aoWv1oH6TKTNzAMsqkNJqT19UazbYuQujfevZ8zPAO0wvcJBiuLazmwpdDUExHMApfwfk9bQmSsKUyl2kmGQPpTwHxZIRMnoHmfs2Pwz8pY8Bufo98EcH94Q6sPSd/wSx1Z+de3Tew5Yvh2QjW2vp4Ukjqkp3Iz320bBKWTh+dzjZVB/APkX5B3sf9oi8Oqo1snng6HgN2t9dTXaJaxzVvlHNUQQTqYfyZd5h4pWIVWKPmoy7mAvh+Uuxq1YBl+zNw2LV3owW0nE4+MBNtjHYztKYWJLLTTZ8ZdGRWk/7ibOB71voZTSPWY4ZcSeYoDI43IVAgMBAAGjge0wgeowDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQ+jvBiFc+Cukl7BD2enCLxYv/0SDAXBgNVHREEEDAOgQxhZEBnbWFpbC5jb20wcQYDVR0lBGowaAYIKwYBBQUHAwIGCCsGAQUFBwMEBgorBgEEAYI3AgEWBgorBgEEAYI3CgMMBgsrBgEEAYI3CgMEAQYKKwYBBAGCNwoDBAYKKwYBBAGCNwIBFQYKKwYBBAGCNxQCAgYJKoZIhvcvAQEFMB0GA1UdDgQWBBQR1T35rDU8AOS2r/L1dFooqapZPjAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcNAQELBQADggEBACE0E5ivz1VaWOpW8m1FOmC4GWtFR6JPgg10k8EKXjGBFZO1LOJQRUe6B5uXFKs9n1T07RHwdKufcEPuEdo22544yArLMM/vNzxoSS++SbfNu8JMn8Xy3dL5x4/h0duA+FQ3iLlAY8NWtA5BYqO1hQm//D5N/7/HyUhd03yTmVKxzCWYJTuUJMLfsydcujI/LtdBZDmUxd3O9yMU/899x8r/Hxk2VC2+C5e7Fe4gEAU6VOL12vyHGqsm8RjAGTfFgkZzHGP6T4UQE5pSkEr8nbOqrrG+5MOCuJFgwDnIqDoQnoCMzDyUOML+/eBmLLXccm+bTH8WHXDjuTklA/XMLzY=</X509Certificate></X509Data></KeyInfo><Object Id="LVCDT1SigningTime"><SignatureProperties Id="LVCDT1SigProps" xmlns=""><SignatureProperty Target="#LVCDT1"><SigningTime>2022-12-02T14:14:43</SigningTime></SignatureProperty></SignatureProperties></Object></Signature></BenDi>
+      <BenDen />
+   </DanhSachChuKySo>
+</LenhVanChuyen>
